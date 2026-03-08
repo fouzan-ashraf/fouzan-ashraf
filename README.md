@@ -20,11 +20,10 @@
 
 ```yaml
 name: Fouzan Ashraf
-role: DevOps Specialist & SRE SME
+role: DevOps Specialist
 company: UST Global Inc
 experience: 10+ Years
-location: Alpharetta, GA, USA
-tenure: Aug 2018 - Present
+location: United States of America
 expertise:
   - Site Reliability Engineering (SRE)
   - Cloud-Native Architecture (AWS, GCP, OCI)
