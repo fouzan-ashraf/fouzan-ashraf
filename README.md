@@ -22,7 +22,7 @@
   <tr>
     <td width="60%">
       <pre lang="yaml"><code>name: Fouzan Ashraf
-role: DevOps Specialist & SRE SME
+role: DevOps Specialist & Site Reliability Engineering SME
 company: UST Global Inc
 experience: 10+ Years
 location: United States of America (USA)
