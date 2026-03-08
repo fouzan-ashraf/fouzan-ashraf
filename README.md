@@ -16,6 +16,30 @@
 
 <br/>
 
+<img align="right" alt="Coding Animation" width="450" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 About Me
+
+```yaml
+name: Fouzan Ashraf # [cite: 1]
+role: DevOps Specialist & SRE SME # [cite: 4]
+company: UST Global Inc # [cite: 17]
+experience: 10+ Years # [cite: 4]
+location: Alpharetta, GA, USA # [cite: 2]
+tenure: Aug 2018 - Present # [cite: 16]
+expertise:
+  - Site Reliability Engineering # [cite: 4]
+  - Cloud-Native Architecture # [cite: 8]
+  - Infrastructure Automation # [cite: 9]
+  - DevSecOps Governance # [cite: 10]
+  - Large-Scale Legacy Modernization # [cite: 6]
+mission: |
+  Safeguarding multi-billion dollar revenue streams
+  by engineering fault-tolerant, automated, and 
+  highly secure cloud delivery systems. # [cite: 6]
+
+<br/>
+
 ## 🚀 About Me
 
 ```yaml
