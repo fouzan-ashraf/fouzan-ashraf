@@ -27,10 +27,10 @@ company: UST Global Inc
 experience: 10+ Years
 location: United States of America (USA)
 expertise:
-  - DevOps & CI/CD (Jenkins, GitHub, Artifactory, Maven, Ant)
-  - Site Reliability Engineering (SRE)
-  - Cloud-Native Architecture (AWS, GCP, OCI)
-  - Infrastructure Automation (Terraform, Ansible)
+  - DevOps & CI/CD
+  - Site Reliability Engineering
+  - Cloud-Native Architecture
+  - Infrastructure Automation
   - DevSecOps & Advance SecOps Governance
   - Monitoring and Observability Solutions
   - Automation and Workflow Algorithms
