@@ -2,16 +2,6 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=850&lines=DevOps+Specialist+%7C+Site+Reliability+Engineering+%7C+AI+%26+ML+Enthusiast" alt="Typing SVG Line 1" />
-  </a>
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=850&lines=Cloud+Infrastructure+Expert++%7C++Automation++%7C++Governance" alt="Typing SVG Line 2" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=DevOps+Specialist+%7C+Site+Reliability+Engineering+%7C+Automation" alt="Typing SVG Line 1" />
   </a>
   <br/>
