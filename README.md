@@ -50,44 +50,77 @@ mission: |
 
 ## 🏆 Professional Highlights & Achievements
 
-* [cite_start]**SRE Leadership:** Serving the clients as the Subject Matter Expert for Site Reliability Engineering and cloud strategy, ensuring fault-tolerant delivery high revenue platform[cite: 18].
-* [cite_start]**Cloud & IaC Mastery:** Leading the automation of AWS cloud infrastructure provisioning to ensure high availability and cost optimization[cite: 20].
-* [cite_start]**Large-Scale Migration:** Successfully orchestrated a time-critical migration of ~500,000 jobs from AutoSys v4 to v11 with zero downtime[cite: 31, 32].
-* [cite_start]**CI/CD Engineering:** Engineered end-to-end CI/CD pipelines utilizing CloudBees Jenkins and IBM UrbanCode Deploy to achieve 'one-touch' deployment capabilities[cite: 35].
-* [cite_start]**AI & Cloud Certifications:** Holding multiple certifications, including Google Cloud Certified Generative AI Leader and Oracle Cloud Infrastructure 2025 Certified Generative AI Professional[cite: 50, 51].
+* **SRE Leadership:** Serving the clients as the Subject Matter Expert for Site Reliability Engineering and cloud strategy, ensuring fault-tolerant delivery high revenue platform.
+* **Cloud & IaC Mastery:** Leading the automation of AWS cloud infrastructure provisioning to ensure high availability and cost optimization.
+* **Large-Scale Migration:** Successfully orchestrated a time-critical migration of ~500,000 jobs from AutoSys v4 to v11 with zero downtime.
+* **CI/CD Engineering:** Engineered end-to-end CI/CD pipelines utilizing CloudBees Jenkins and IBM UrbanCode Deploy to achieve 'one-touch' deployment capabilities.
+* **AI & Cloud Certifications:** Holding multiple certifications, including Google Cloud Certified Generative AI Leader and Oracle Cloud Infrastructure 2025 Certified Generative AI Professional.
 
 ---
 
-## ⚙️ Core Competencies & Technology Stack
+## ⚙️ Technology Stack
 
 <div align="center">
-  <br />
-  <strong>Cloud & IaC</strong><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
+
+  <h3>Programming & Scripting Languages</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/SQL_MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  
   <br /><br />
   
-  <strong>CI/CD & DevSecOps</strong><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40" alt="SonarQube" />
+  <h3>Cloud Platforms</h3>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" />
+
   <br /><br />
-  
-  <strong>Languages & Scripting</strong><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="SQL" />
+
+  <h3>Container & Orchestration</h3>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+
   <br /><br />
-  
-  <strong>Observability & Tools</strong><br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
+
+  <h3>Infrastructure as Code</h3>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+
+  <br /><br />
+
+  <h3>CI/CD, Version Control & Artifact Management</h3>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Nexus_Artifactory-1B1B1C?style=for-the-badge&logo=sonatype&logoColor=white" alt="Nexus" />
+
+  <br /><br />
+
+  <h3>Security & Compliance</h3>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Qualys-ED1C24?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys" />
+  <img src="https://img.shields.io/badge/Rapid7-EE2737?style=for-the-badge&logo=rapid7&logoColor=white" alt="Rapid7" />
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault" />
+
+  <br /><br />
+
+  <h3>Monitoring, Observability & ITSM Tools</h3>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/PagerDuty-067A46?style=for-the-badge&logo=pagerduty&logoColor=white" alt="PagerDuty" />
+  <img src="https://img.shields.io/badge/ChaosSearch-2D3192?style=for-the-badge" alt="ChaosSearch" />
+  <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+
 </div>
+
+---
+
+## 🎯 Skills, Interests & Hobbies
+
+* **Continuous Learning:** Currently expanding my expertise by pursuing self-paced learning in Artificial Intelligence and Machine Learning.
+* **Web Development:** Enjoy building web applications, including a recent Python Flask app designed as a bite-sized quiz for the Google Cloud Gen AI Leader Certification: https://fouzanashraf.vercel.app/.
+* **Creative Pursuits:** Passionate about learning and sharing knowledge in an easy-to-relate, practical visualization format.
 
 ---
 
@@ -102,14 +135,6 @@ mission: |
 
 ---
 
-## 🎯 Skills, Interests & Hobbies
-
-* **Continuous Learning:** Currently expanding my expertise by pursuing self paced learning in Artificial Intelligence and Machine Learning.
-* **Web Development:** Enjoy building web applications, including a recent Python Flask app designed as a bite-sized quiz for the Google Cloud Gen AI Leader Certification https://fouzanashraf.vercel.app/.
-* **Creative Pursuits:** Passionate about learning and sharing knowledge in an easy to relate practical visualizations.
-
----
-
 ## 🤝 Connect & Collaborate
 
 * **Open For:** Technical consultations on DevOps modernization, SRE best practices, Large-Scale Legacy Modernization, and integrating Gen AI into cloud workflows.
@@ -117,6 +142,9 @@ mission: |
 
 <div align="center">
   <br/>
+  <a href="https://github.com/fouzan-ashraf">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.linkedin.com/in/fouzanashrafazam/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
