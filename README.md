@@ -62,24 +62,18 @@ mission: |
 
 <div align="center">
 
-  <h3>Programming & Scripting Languages</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/SQL_MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  
+  <h3>CI/CD, Version Control & Artifact Management</h3>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Nexus_Artifactory-1B1B1C?style=for-the-badge&logo=sonatype&logoColor=white" alt="Nexus" />
+
   <br />
-  
+
   <h3>Cloud Platforms</h3>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" />
-
-  <br />
-
-  <h3>Container & Orchestration</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 
   <br />
 
@@ -89,19 +83,9 @@ mission: |
 
   <br />
 
-  <h3>CI/CD, Version Control & Artifact Management</h3>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Nexus_Artifactory-1B1B1C?style=for-the-badge&logo=sonatype&logoColor=white" alt="Nexus" />
-
-  <br />
-
-  <h3>Security & Compliance</h3>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
-  <img src="https://img.shields.io/badge/Qualys-ED1C24?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys" />
-  <img src="https://img.shields.io/badge/Rapid7-EE2737?style=for-the-badge&logo=rapid7&logoColor=white" alt="Rapid7" />
-  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault" />
+  <h3>Container & Orchestration</h3>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 
   <br />
 
@@ -111,6 +95,22 @@ mission: |
   <img src="https://img.shields.io/badge/PagerDuty-067A46?style=for-the-badge&logo=pagerduty&logoColor=white" alt="PagerDuty" />
   <img src="https://img.shields.io/badge/ChaosSearch-2D3192?style=for-the-badge" alt="ChaosSearch" />
   <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+
+  <br />
+
+  <h3>Programming & Scripting Languages</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/SQL_MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  
+  <br />
+
+  <h3>Security & Compliance</h3>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Qualys-ED1C24?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys" />
+  <img src="https://img.shields.io/badge/Rapid7-EE2737?style=for-the-badge&logo=rapid7&logoColor=white" alt="Rapid7" />
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault" />
 
 </div>
 
