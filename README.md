@@ -37,25 +37,3 @@ mission: |
   Safeguarding multi-billion dollar revenue streams
   by engineering fault-tolerant, automated, and 
   highly secure cloud delivery systems. # [cite: 6]
-
-<br/>
-
-## 🚀 About Me
-
-```yaml
-name: Fouzan Ashraf
-role: DevOps Specialist
-company: UST Global Inc
-experience: 10+ Years
-location: United States of America
-expertise:
-  - Site Reliability Engineering (SRE)
-  - Cloud-Native Architecture (AWS, GCP, OCI)
-  - Infrastructure as Code (Terraform, Ansible)
-  - DevSecOps & Advanced SecOps Governance
-  - Monitoring and Observability Solutions
-  - Automation and Workflow Algorithms
-  - Large-Scale Legacy Modernization
-mission: |
-  Safeguarding multi-billion dollar revenue streams by engineering 
-  fault-tolerant, automated, and highly secure cloud delivery systems.
