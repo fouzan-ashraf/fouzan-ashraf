@@ -64,8 +64,8 @@ mission: |
 
   <h3>CI/CD, Version Control & Artifact Management</h3>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Nexus_Artifactory-1B1B1C?style=for-the-badge&logo=sonatype&logoColor=white" alt="Nexus" />
 
   <br />
@@ -109,7 +109,7 @@ mission: |
   <br />
 
   <h3>Security & Compliance</h3>
-  <img src="https://img.shields.io/badge/Wiz-0B1953?style=for-the-badge" alt="Wiz" />
+  <img src="https://img.shields.io/badge/Wiz-0B1953?style=for-the-badge&logo=wiz&logoColor=white" alt="Wiz" />
   <img src="https://img.shields.io/badge/Qualys-ED1C24?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
   <img src="https://img.shields.io/badge/Rapid7-EE2737?style=for-the-badge&logo=rapid7&logoColor=white" alt="Rapid7" />
