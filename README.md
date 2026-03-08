@@ -95,6 +95,7 @@ mission: |
   <img src="https://img.shields.io/badge/PagerDuty-067A46?style=for-the-badge&logo=pagerduty&logoColor=white" alt="PagerDuty" />
   <img src="https://img.shields.io/badge/ChaosSearch-2D3192?style=for-the-badge" alt="ChaosSearch" />
   <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
 
   <br />
 
