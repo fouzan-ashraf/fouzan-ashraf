@@ -16,24 +16,30 @@
 
 <br/>
 
-<img align="right" alt="Coding Animation" width="450" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🚀 About Me
 
-```yaml
-name: Fouzan Ashraf # [cite: 1]
-role: DevOps Specialist & SRE SME # [cite: 4]
-company: UST Global Inc # [cite: 17]
-experience: 10+ Years # [cite: 4]
-location: Alpharetta, GA, USA # [cite: 2]
-tenure: Aug 2018 - Present # [cite: 16]
+<table border="0" width="100%">
+  <tr>
+    <td width="60%">
+      <pre lang="yaml"><code>name: Fouzan Ashraf
+role: DevOps Specialist & SRE SME
+company: UST Global Inc
+experience: 10+ Years
+location: Alpharetta, GA, USA
+tenure: Aug 2018 - Present
 expertise:
-  - Site Reliability Engineering # [cite: 4]
-  - Cloud-Native Architecture # [cite: 8]
-  - Infrastructure Automation # [cite: 9]
-  - DevSecOps Governance # [cite: 10]
-  - Large-Scale Legacy Modernization # [cite: 6]
+  - Site Reliability Engineering
+  - Cloud-Native Architecture
+  - Infrastructure Automation
+  - DevSecOps Governance
+  - Large-Scale Legacy Modernization
 mission: |
   Safeguarding multi-billion dollar revenue streams
   by engineering fault-tolerant, automated, and 
-  highly secure cloud delivery systems. # [cite: 6]
+  highly secure cloud delivery systems.</code></pre>
+    </td>
+    <td width="40%" align="center">
+      <img src="[https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)" alt="Coding Animation" width="100%" />
+    </td>
+  </tr>
+</table>
