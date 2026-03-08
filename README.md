@@ -25,13 +25,15 @@
 role: DevOps Specialist & SRE SME
 company: UST Global Inc
 experience: 10+ Years
-location: Alpharetta, GA, USA
-tenure: Aug 2018 - Present
+location: United States of America (USA)
 expertise:
-  - Site Reliability Engineering
-  - Cloud-Native Architecture
-  - Infrastructure Automation
-  - DevSecOps Governance
+  - DevOps & CI/CD (Jenkins, GitHub, Artifactory, Maven, Ant)
+  - Site Reliability Engineering (SRE)
+  - Cloud-Native Architecture (AWS, GCP, OCI)
+  - Infrastructure Automation (Terraform, Ansible)
+  - DevSecOps & Advance SecOps Governance
+  - Monitoring and Observability Solutions
+  - Automation and Workflow Algorithms
   - Large-Scale Legacy Modernization
 mission: |
   Safeguarding multi-billion dollar revenue streams
@@ -39,7 +41,7 @@ mission: |
   highly secure cloud delivery systems.</code></pre>
     </td>
     <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" width="100%" />
+      <img src="technologist.gif" alt="Technologist Coding Animation" width="100%" />
     </td>
   </tr>
 </table>
