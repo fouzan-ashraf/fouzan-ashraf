@@ -25,6 +25,8 @@ expertise:
   - Cloud-Native Architecture (AWS, GCP, OCI)
   - Infrastructure as Code (Terraform, Ansible)
   - DevSecOps & Advanced SecOps Governance
+  - Monitoring and Observability Solutions
+  - Automation and Workflow Algorithms
   - Large-Scale Legacy Modernization
 mission: |
   Safeguarding multi-billion dollar revenue streams by engineering 
