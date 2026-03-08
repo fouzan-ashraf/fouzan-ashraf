@@ -22,13 +22,13 @@
   <tr>
     <td width="60%">
       <pre lang="yaml"><code>name: Fouzan Ashraf
-role: DevOps Specialist & Site Reliability Engineering SME
+role: DevOps Specialist
 company: UST Global Inc
 experience: 10+ Years
 location: United States of America (USA)
 expertise:
   - DevOps & CI/CD
-  - Site Reliability Engineering
+  - Site Reliability Engineering SME
   - Cloud-Native Architecture
   - Infrastructure Automation
   - DevSecOps & Advance SecOps Governance
