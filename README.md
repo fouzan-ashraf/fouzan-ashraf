@@ -11,10 +11,12 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fouzan-ashraf&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=blue" alt="Followers" />
-  <a href="https://www.linkedin.com/in/fouzanashrafazam/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=DevOps+Specialist+%7C+Site+Reliability+Engineering+%7C+Automation" alt="Typing SVG Line 1" />
+  </a>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Cloud+Expert+%7C+AI+%26+ML+Enthusiast+%7C+Governance" alt="Typing SVG Line 2" />
   </a>
 </div>
 
