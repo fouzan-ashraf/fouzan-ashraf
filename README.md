@@ -10,6 +10,14 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=blue" alt="Followers" />
+  <a href="https://www.linkedin.com/in/fouzanashrafazam/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" />
+  </a>
+</div>
+
 <br/>
 
 ## 🚀 About Me
