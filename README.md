@@ -108,8 +108,9 @@ mission: |
   <br />
 
   <h3>Security & Compliance</h3>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Wiz-0B1953?style=for-the-badge" alt="Wiz" />
   <img src="https://img.shields.io/badge/Qualys-ED1C24?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
   <img src="https://img.shields.io/badge/Rapid7-EE2737?style=for-the-badge&logo=rapid7&logoColor=white" alt="Rapid7" />
   <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault" />
 
