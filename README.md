@@ -53,6 +53,9 @@ mission: |
 * **SRE Leadership:** Subject Matter Expert for Site Reliability Engineering, cloud strategy & fault-tolerant delivery.
 * **Cloud & IaC Mastery:** Leading automated cloud infrastructure provisioning, ensuring low cost & high availability.
 * **CI/CD Engineering:** Engineered end-to-end CI/CD pipelines utilizing Jenkins to achieve 'one-touch' deployment.
+* **DevSecOps Governance:** Enforced robust security using secure software engineering principles across the CI/CD lifecycle.
+* **Process Automation:** Eliminated technical debt by re-engineering legacy scripts into modular automation libraries.
+* **Observability:** Architected monitoring with Prometheus, Grafana & PagerDuty to proactively resolve system bottlenecks.
 * **Large-Scale Migration:** Successfully orchestrated a time-critical migration of ~500,000 jobs from AutoSys v4 to v11.
 * **AI & Cloud Certifications:** Multiple certifications, including GCP Gen AI Leader and OCI Gen AI Professional.
 
