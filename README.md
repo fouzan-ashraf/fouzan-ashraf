@@ -159,7 +159,7 @@ mission: |
 
 * **Continuous Learning:** Expanding my expertise in Artificial Intelligence and Machine Learning.
 * **Creative Pursuits:** Passionate about learning and sharing knowledge through clear, practical visualizations.
-* **Web Development:** I love bringing ideas to life through code. Explore my work here:  [Test Your Knowledge Here](https://fouzanashraf.vercel.app/).
+* **Web Development:** I love bringing ideas to life through code. Explore my work 👉:  [Test Your Knowledge Here](https://fouzanashraf.vercel.app/).
 
 ---
 
