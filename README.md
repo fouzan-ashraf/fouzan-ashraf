@@ -205,6 +205,13 @@ mission: |
   </a>
 </div>
 
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer" width="100%" />
+  
+  <br />
+  
+  <p align="center">
+    <i>Refined with precision and engineered for reliability by <b>Fouzan Ashraf</b></i>
+  </p>
 </div>
