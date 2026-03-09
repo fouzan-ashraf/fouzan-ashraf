@@ -129,6 +129,25 @@ mission: |
   <img src="https://img.shields.io/badge/Rapid7-EE2737?style=for-the-badge&logo=rapid7&logoColor=white" alt="Rapid7" />
   <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault" />
 
+  <br />
+
+  <h3>Databases</h3>
+  <img src="https://img.shields.io/badge/Oracle_SQL_Server-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL Server" />
+  <img src="https://img.shields.io/badge/Amazon_Aurora_(MySQL)-527FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Aurora" />
+  <img src="https://img.shields.io/badge/Supabase_(PostgreSQL)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+
+  <br />
+
+  <h3>Artificial Intelligence & Machine Learning</h3>
+  <img src="https://img.shields.io/badge/Machine_Learning-0052CC?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep_Neural_Networks-4E9BCD?style=for-the-badge" alt="Deep Neural Networks" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+
 </div>
 
 ---
