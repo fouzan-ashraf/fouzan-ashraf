@@ -176,7 +176,7 @@ mission: |
 
 ## 🤝 Connect & Collaborate
 
-* **Open For:** Mentoring, Technical consultations, SRE best practices, Large-Scale Legacy Modernization & Gen AI discussion.
+* **Open For:** Mentoring, Technical consultations, SRE best practices, Gen AI discussion.
 * **Motto:** *Building self-healing infrastructure for the generative era.*
 
 <div align="center">
