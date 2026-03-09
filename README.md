@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fouzan Ashraf</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=150&section=header&text=Fouzan%20Ashraf&fontSize=50&animation=fadeIn" alt="Header Banner" />
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
