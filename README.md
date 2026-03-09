@@ -166,9 +166,16 @@ mission: |
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fouzan-ashraf&show_icons=true&theme=radical&hide_border=true&v=march8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=fouzan-ashraf&layout=compact&theme=radical&hide_border=true&v=march8" alt="Top Languages" width="48%" />
-  <br/>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fouzan-ashraf&show_icons=true&theme=radical&hide_border=true&v=march8" alt="GitHub Stats" height="195" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=fouzan-ashraf&layout=compact&theme=radical&hide_border=true&v=march8" alt="Top Languages" height="195" />
+      </td>
+    </tr>
+  </table>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fouzan-ashraf&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
