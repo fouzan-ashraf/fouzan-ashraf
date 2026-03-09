@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=150&section=header&text=Fouzan%20Ashraf&fontSize=50&animation=fadeIn" alt="Header Banner" />
-</div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Fouzan+Ashraf;DevOps+%7C+SRE+%7C+AI+Learner" alt="Typing Animation" />
+  </a>
+</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
