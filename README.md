@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Fouzan+Ashraf;SRE+%7C+DevOps+%7C+AI+Learner" alt="Typing Animation" />
-  </a>
-</h1>
+<h1 align="center">Hi 👋, I'm Fouzan Ashraf</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
