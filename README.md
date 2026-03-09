@@ -50,11 +50,11 @@ mission: |
 
 ## 🏆 Professional Highlights & Achievements
 
-* **SRE Leadership:** Serving the clients as the Subject Matter Expert for Site Reliability Engineering and cloud strategy, ensuring fault-tolerant delivery high revenue platform.
-* **Cloud & IaC Mastery:** Leading the automation of AWS cloud infrastructure provisioning to ensure high availability and cost optimization.
-* **Large-Scale Migration:** Successfully orchestrated a time-critical migration of ~500,000 jobs from AutoSys v4 to v11 with zero downtime.
-* **CI/CD Engineering:** Engineered end-to-end CI/CD pipelines utilizing CloudBees Jenkins and IBM UrbanCode Deploy to achieve 'one-touch' deployment capabilities.
-* **AI & Cloud Certifications:** Holding multiple certifications, including Google Cloud Certified Generative AI Leader and Oracle Cloud Infrastructure 2025 Certified Generative AI Professional.
+* **SRE Leadership:** Subject Matter Expert for Site Reliability Engineering, cloud strategy & fault-tolerant delivery.
+* **Cloud & IaC Mastery:** Leading automated cloud infrastructure provisioning, ensuring low cost & high availability.
+* **CI/CD Engineering:** Engineered end-to-end CI/CD pipelines utilizing Jenkins to achieve 'one-touch' deployment.
+* **Large-Scale Migration:** Successfully orchestrated a time-critical migration of ~500,000 jobs from AutoSys v4 to v11.
+* **AI & Cloud Certifications:** Holding multiple certifications, including GCP Gen AI Leader and OCI Gen AI Professional.
 
 ---
 
@@ -105,6 +105,8 @@ mission: |
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/SQL_MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   
   <br />
 
@@ -121,9 +123,9 @@ mission: |
 
 ## 🎯 Skills, Interests & Hobbies
 
-* **Continuous Learning:** Currently expanding my expertise by pursuing self-paced learning in Artificial Intelligence and Machine Learning.
-* **Web Development:** Enjoy building web applications, including a recent Python Flask app designed as a bite-sized quiz for the Google Cloud Gen AI Leader Certification: [Test Your Knowledge Here](https://fouzanashraf.vercel.app/).
-* **Creative Pursuits:** Passionate about learning and sharing knowledge in an easy-to-relate, practical visualization format.
+* **Continuous Learning:** Expanding my expertise in Artificial Intelligence and Machine Learning.
+* **Creative Pursuits:** Passionate about learning and sharing knowledge through clear, practical visualizations.
+* **Web Development:** I love bringing ideas to life through code. Explore my work here:  [Test Your Knowledge Here](https://fouzanashraf.vercel.app/).
 
 ---
 
@@ -140,8 +142,8 @@ mission: |
 
 ## 🤝 Connect & Collaborate
 
-* **Open For:** Technical consultations on DevOps modernization, SRE best practices, Large-Scale Legacy Modernization, and integrating Gen AI into cloud workflows.
-* **Motto:** *Innovating at the intersection of Cloud reliability and AI, building infrastructure that thrives under pressure.*
+* **Open For:** Mentoring, Technical consultations, SRE best practices, Large-Scale Legacy Modernization & Gen AI discussion.
+* **Motto:** *Building self-healing infrastructure for the generative era.*
 
 <div align="center">
   <br/>
