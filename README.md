@@ -57,6 +57,7 @@ mission: |
 * **Process Automation:** Eliminated technical debt by re-engineering legacy scripts into modular automation libraries.
 * **Observability:** Architected monitoring with Prometheus, Grafana & PagerDuty to proactively resolve bottlenecks.
 * **Large-Scale Migration:** Successfully orchestrated time-critical migration of ~500,000 jobs from AutoSys v4 to v11.
+* **Mentorship & QA:** Enforcing industry best practices via rigorous automation and documentation reviews.
 * **AI & Cloud Certifications:** Multiple certifications, including GCP Gen AI Leader and OCI Gen AI Professional.
 
 ---
