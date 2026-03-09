@@ -54,7 +54,7 @@ mission: |
 * **Cloud & IaC Mastery:** Leading automated cloud infrastructure provisioning, ensuring low cost & high availability.
 * **CI/CD Engineering:** Engineered end-to-end CI/CD pipelines utilizing Jenkins to achieve 'one-touch' deployment.
 * **Large-Scale Migration:** Successfully orchestrated a time-critical migration of ~500,000 jobs from AutoSys v4 to v11.
-* **AI & Cloud Certifications:** Holding multiple certifications, including GCP Gen AI Leader and OCI Gen AI Professional.
+* **AI & Cloud Certifications:** Multiple certifications, including GCP Gen AI Leader and OCI Gen AI Professional.
 
 ---
 
