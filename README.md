@@ -59,6 +59,7 @@ mission: |
 * **Large-Scale Migration:** Successfully orchestrated time-critical migration of ~500,000 jobs from AutoSys v4 to v11.
 * **Mentorship & QA:** Enforcing industry best practices via rigorous automation and documentation reviews.
 * **AI & Cloud Certifications:** Multiple certifications, including GCP Gen AI Leader and OCI Gen AI Professional.
+* **Awards & Leadership:** UST Super Start Award, UST Hi-Flyer Award, Syntel Reusability Hackathon (2016) Winner, Syntel AGILE Value Individual Award - Leadership, Competent Leader by Toastmasters International.
 
 ---
 
