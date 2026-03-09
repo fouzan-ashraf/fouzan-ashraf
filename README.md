@@ -166,16 +166,16 @@ mission: |
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fouzan-ashraf&show_icons=true&theme=radical&hide_border=true&v=march8" alt="GitHub Stats" height="195" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=fouzan-ashraf&layout=compact&theme=radical&hide_border=true&v=march8" alt="Top Languages" height="195" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fouzan-ashraf&show_icons=true&theme=radical&hide_border=true&v=final1" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=fouzan-ashraf&layout=compact&theme=radical&hide_border=true&v=final1" alt="Top Languages" height="180" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fouzan-ashraf&theme=radical&layout=compact&hide_border=true" alt="Commit Metrics" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fouzan-ashraf&theme=radical" alt="Profile Metrics" height="180" />
+
+  <br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fouzan-ashraf&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
