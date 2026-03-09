@@ -29,7 +29,7 @@ location: United States of America (USA)
 expertise:
   - DevOps & CI/CD
   - Site Reliability Engineering SME
-  - Cloud-Native Architecture
+  - Cloud Solutions & Automation
   - Infrastructure Automation
   - DevSecOps & Advance SecOps Governance
   - Monitoring and Observability Solutions
